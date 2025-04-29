@@ -4,7 +4,9 @@ Linter for rabataio projects.
 
 ```bash
 go get github.com/ernado/rabatalinter
+```
 
+```bash
 rabatalinter ./...
 ```
 
