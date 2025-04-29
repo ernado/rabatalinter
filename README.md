@@ -2,6 +2,12 @@
 
 Linter for rabataio projects.
 
+```bash
+go get github.com/ernado/rabatalinter
+
+rabatalinter ./...
+```
+
 ## TODO
 
 - [ ] RB0 - All receivers should be `m`
